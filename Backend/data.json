@@ -1,0 +1,242 @@
+[
+  {
+      "Firstname": "Ahmed",
+      "Surname": "Khan",
+      "DateOfBirth": {
+          "day": "05",
+          "month": "May",
+          "year": "1992"
+      },
+      "gender": "Male",
+      "email": "ahmed.khan92@gmail.com",
+      "password": "Ahmed123!"
+  },
+  {
+      "Firstname": "Fatima",
+      "Surname": "Bano",
+      "DateOfBirth": {
+          "day": "12",
+          "month": "June",
+          "year": "1995"
+      },
+      "gender": "Female",
+      "email": "fatima.bano95@yahoo.com",
+      "password": "Fatima@123"
+  },
+  {
+      "Firstname": "Ali",
+      "Surname": "Zafar",
+      "DateOfBirth": {
+          "day": "23",
+          "month": "July",
+          "year": "1988"
+      },
+      "gender": "Male",
+      "email": "ali.zafar88@hotmail.com",
+      "password": "Zafar@88"
+  },
+  {
+      "Firstname": "Zainab",
+      "Surname": "Malik",
+      "DateOfBirth": {
+          "day": "02",
+          "month": "March",
+          "year": "1999"
+      },
+      "gender": "Female",
+      "email": "zainab.malik99@gmail.com",
+      "password": "Zainab99$"
+  },
+  {
+      "Firstname": "Hassan",
+      "Surname": "Sheikh",
+      "DateOfBirth": {
+          "day": "19",
+          "month": "September",
+          "year": "1990"
+      },
+      "gender": "Male",
+      "email": "hassan.sheikh90@outlook.com",
+      "password": "Hassan#90"
+  },
+  {
+      "Firstname": "Ayesha",
+      "Surname": "Iqbal",
+      "DateOfBirth": {
+          "day": "07",
+          "month": "November",
+          "year": "1996"
+      },
+      "gender": "Female",
+      "email": "ayesha.iqbal96@gmail.com",
+      "password": "Ayesha96!"
+  },
+  {
+      "Firstname": "Bilal",
+      "Surname": "Ahmed",
+      "DateOfBirth": {
+          "day": "15",
+          "month": "August",
+          "year": "1993"
+      },
+      "gender": "Male",
+      "email": "bilal.ahmed93@gmail.com",
+      "password": "Bilal@93"
+  },
+  {
+      "Firstname": "Saima",
+      "Surname": "Sadiq",
+      "DateOfBirth": {
+          "day": "28",
+          "month": "February",
+          "year": "1997"
+      },
+      "gender": "Female",
+      "email": "saima.sadiq97@yahoo.com",
+      "password": "Saima97#"
+  },
+  {
+      "Firstname": "Usman",
+      "Surname": "Farooq",
+      "DateOfBirth": {
+          "day": "04",
+          "month": "October",
+          "year": "1991"
+      },
+      "gender": "Male",
+      "email": "usman.farooq91@gmail.com",
+      "password": "Usman91@"
+  },
+  {
+      "Firstname": "Mariam",
+      "Surname": "Shah",
+      "DateOfBirth": {
+          "day": "11",
+          "month": "April",
+          "year": "1994"
+      },
+      "gender": "Female",
+      "email": "mariam.shah94@hotmail.com",
+      "password": "Mariam#94"
+  },
+  {
+      "Firstname": "Zeeshan",
+      "Surname": "Hussain",
+      "DateOfBirth": {
+          "day": "09",
+          "month": "December",
+          "year": "1989"
+      },
+      "gender": "Male",
+      "email": "zeeshan.hussain89@gmail.com",
+      "password": "Zeeshan89!"
+  },
+  {
+      "Firstname": "Nida",
+      "Surname": "Jamil",
+      "DateOfBirth": {
+          "day": "06",
+          "month": "January",
+          "year": "1998"
+      },
+      "gender": "Female",
+      "email": "nida.jamil98@yahoo.com",
+      "password": "Nida@98"
+  },
+  {
+      "Firstname": "Tariq",
+      "Surname": "Suleman",
+      "DateOfBirth": {
+          "day": "17",
+          "month": "July",
+          "year": "1992"
+      },
+      "gender": "Male",
+      "email": "tariq.suleman92@gmail.com",
+      "password": "Tariq92@"
+  },
+  {
+      "Firstname": "Anam",
+      "Surname": "Khan",
+      "DateOfBirth": {
+          "day": "22",
+          "month": "May",
+          "year": "1995"
+      },
+      "gender": "Female",
+      "email": "anam.khan95@gmail.com",
+      "password": "Anam95$"
+  },
+  {
+      "Firstname": "Imran",
+      "Surname": "Rashid",
+      "DateOfBirth": {
+          "day": "18",
+          "month": "March",
+          "year": "1990"
+      },
+      "gender": "Male",
+      "email": "imran.rashid90@outlook.com",
+      "password": "Imran90@"
+  },
+  {
+      "Firstname": "Sara",
+      "Surname": "Qureshi",
+      "DateOfBirth": {
+          "day": "30",
+          "month": "September",
+          "year": "1996"
+      },
+      "gender": "Female",
+      "email": "sara.qureshi96@hotmail.com",
+      "password": "Sara96@"
+  },
+  {
+      "Firstname": "Junaid",
+      "Surname": "Ali",
+      "DateOfBirth": {
+          "day": "16",
+          "month": "August",
+          "year": "1993"
+      },
+      "gender": "Male",
+      "email": "junaid.ali93@gmail.com",
+      "password": "Junaid93!"
+  },
+  {
+      "Firstname": "Ammara",
+      "Surname": "Rafiq",
+      "DateOfBirth": {
+          "day": "13",
+          "month": "October",
+          "year": "1994"
+      },
+      "gender": "Female",
+      "email": "ammara.rafiq94@gmail.com",
+      "password": "Ammara94#"
+  },
+  {
+      "Firstname": "Rizwan",
+      "Surname": "Mustafa",
+      "DateOfBirth": {
+          "day": "24",
+          "month": "June",
+          "year": "1988"
+      },
+      "gender": "Male",
+      "email": "rizwan.mustafa88@gmail.com",
+      "password": "Rizwan88@"
+  },
+  {
+      "Firstname": "Nadia",
+      "Surname": "Shafiq",
+      "DateOfBirth": {
+          "day": "05",
+          "month": "February",
+          "year": "1999"
+      },
+      "gender": "Female",
+      "email": "nadia.shafiq99@hotmail.com",
+      "password": "Nadia99!"
+  }
+]
